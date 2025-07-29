@@ -28,7 +28,7 @@ The work includes both theoretical and experimental analysis, comparing testnets
 
 To better understand the system, I created the following image to represent the general topology of a rollup architecture within the Ethereum ecosystem.
 
-![Rollup Topology](./assets/rollup-topology.png)
+![Rollup Topology](./assets/optimistic-topology.png)
 
 ---
 
@@ -42,6 +42,7 @@ Special thanks to **Jesús Correas Fernández**, for his support, guidance and d
 
 **Javier Jerez Reinoso**  
 javjerez.r@gmail.com
+
 [LinkedIn](https://www.linkedin.com/in/javier-jerez-reinoso)
 
 > Feel free to reach out if you'd like to discuss Ethereum, Layer 2 scalability or blockchain infrastructure.
