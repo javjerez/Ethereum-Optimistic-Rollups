@@ -34,7 +34,7 @@ To better understand the system, I created the following image to represent the 
 
 ## Acknowledgements
 
-Special thanks to **Jesús Correas Fernández**, for his support, guidance and dedication throughout the project.
+Special thanks to **Jesús Correas Fernández** for his support, guidance and dedication throughout the project.
 
 ---
 
