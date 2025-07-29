@@ -40,9 +40,9 @@ Special thanks to **Jesús Correas Fernández**, for his support, guidance and d
 
 ## Author
 
-**Javier Jerez Reinoso**  
+**Javier Jerez Reinoso**
+> Feel free to reach out if you'd like to discuss Ethereum, Layer 2 scalability or blockchain infrastructure
+
 javjerez.r@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/javier-jerez-reinoso)
-
-> Feel free to reach out if you'd like to discuss Ethereum, Layer 2 scalability or blockchain infrastructure.
